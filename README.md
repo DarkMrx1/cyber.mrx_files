@@ -1,7 +1,6 @@
 # cyber.mrx _files
 This is my files, tiktok - @cyber.mx
 This is educational purposes only!
-Don't send virus to anyone
 
 ShutdownWiFiPemanetly.bat - This is batch file, if you run it in Administrator your wifi has been shudown dont do this
 
